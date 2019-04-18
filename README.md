@@ -1,3 +1,5 @@
+Download and unpack https://www.kaggle.com/crawford/emnist dataset into ./Dataset
+
 HOWTO: 
 CD into source
 run "python GenerateWords.py" - Can change the number of instances in the script 
